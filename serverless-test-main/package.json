@@ -1,0 +1,25 @@
+{
+  "name": "test-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfabredev/serverless-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfabredev/serverless-test/issues"
+  },
+  "homepage": "https://github.com/nfabredev/serverless-test#readme",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
